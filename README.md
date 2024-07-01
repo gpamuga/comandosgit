@@ -1,2 +1,2 @@
 # comandosgit
-me permite ver los comandos git
+me permite clonar y ver los comandos git
